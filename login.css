@@ -1,4 +1,4 @@
-@media screen only and (max-width:720px) {
+@media screen only and (max-width:480px) {
     #background_branding_container {
         display: none;
         background-color: #ffffff;
